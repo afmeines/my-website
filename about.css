@@ -1,0 +1,21 @@
+body {font-family: "Audiowide", sans-serif; }
+
+.flex-container {
+	display: flex;
+	flex-wrap: wrap;}
+
+@media screen and (min-width: 480px)
+
+
+h2 {color: pink; }
+
+div class="flex-container"
+
+p {font-size: 16px;
+   line-height: 25px; }
+
+
+a:link {text-decoration: none; }
+
+
+a:hover {color: red; }
